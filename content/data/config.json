@@ -54,5 +54,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://kpfu-test-f4029.netlify.app"
 }
